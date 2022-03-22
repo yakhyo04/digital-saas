@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cacbd4f.css",
+    "main.js": "/static/js/main.add70ac8.js",
+    "static/media/Uzbekistan.svg": "/static/media/Uzbekistan.e22893e45004ce7e3cdbd374a07c9e21.svg",
+    "static/media/UK.svg": "/static/media/UK.fd46970f89e3fbca473f57e811916ea0.svg",
+    "index.html": "/index.html",
+    "static/media/Russia.svg": "/static/media/Russia.b41328698709cf180d8d19cd65d03050.svg",
+    "static/media/vector.svg": "/static/media/vector.542dd67356768ea2b7c33fc6efd20bfb.svg",
+    "main.2cacbd4f.css.map": "/static/css/main.2cacbd4f.css.map",
+    "main.add70ac8.js.map": "/static/js/main.add70ac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cacbd4f.css",
+    "static/js/main.add70ac8.js"
+  ]
+}
